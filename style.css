@@ -72,7 +72,7 @@ section {
 #about {
     padding:1.5em;
     background-color: #3D0C2C;
-    margin-bottom: 2em;
+    margin-bottom: 2.5em;
     color: #656EA6;
     font-size: 1.25em;
 
@@ -83,4 +83,5 @@ footer {
     height: 40px;
     width: 96.6%;
     background-color: #CCB46F;
+    padding: .5em;
 }
