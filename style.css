@@ -48,6 +48,7 @@ header nav li:hover::before {
     border: solid grey 1px;
     /*float: left;*/
     margin: 20px;
+    background-color: #93BF75;
 }
 #main {
     display: grid;
@@ -65,10 +66,6 @@ header nav li:hover::before {
     text-align: center;
 }
 
-section {
-    background-color: #93BF75;
-}
-
 #about {
     padding:1.5em;
     background-color: #3D0C2C;
@@ -81,7 +78,7 @@ footer {
     position: fixed;
     bottom: 0;
     height: 40px;
-    width: 96.6%;
+    width: 95.51%;
     background-color: #CCB46F;
     padding: .5em;
 }
